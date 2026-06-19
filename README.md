@@ -10,7 +10,7 @@ This repository features an enterprise-grade Power BI analytics solution designe
 * **Customer Retention:** What factors and industry segments are heavily driving customer churn?
 * **Operational Efficiency:** Are customer support teams effectively managing ticket volume spikes based on severity and priority levels?
 
----
+---![SaaS Executive Dashboard Preview](dashboard_preview.png)
 
 ## 🛠️ Technical Architecture & Data Hygiene
 A senior data analyst builds reports with data scalability and governance in mind. This project prioritizes clean data pipelines and optimized data modeling before any front-end visuals are constructed.
